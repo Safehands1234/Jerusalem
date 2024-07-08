@@ -98,8 +98,32 @@ img{
     /* padding: 20px; */
     margin: 20px;
 }
+
+
+.bi-chat-dots{
+    background-color: orange; 
+    color: white;
+}
+.bi-facebook{
+    background-color: blue; 
+    color: white;
+}
+.bi-twitter{
+    background-color: white; 
+    color: blue;
+}
+.bi-linkedin{ 
+    color: blue;
+}
+.bi-envelope{
+    color: red;
+}
+.bi-google{
+    color: red;
+}
 .cop{
     padding: 20px;
+    font-size: 30px;
 }
 .wola{
     background: black;
